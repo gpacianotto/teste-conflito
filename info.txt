@@ -1,0 +1,7 @@
+Este arquivo contem algumas informações sobre mim
+
+Nome: Guilherme de Aguiar Pacianotto
+Idade: 22 anos
+Curso: Ciência da Computação
+Instituição: FCT-UNESP Pres. Prudente
+Hobbies: Jogar Lolzinho, jogar xadrez, andar de bicicleta.
